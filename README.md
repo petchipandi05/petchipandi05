@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Petchipandi S</h1>
 <h3 align="center">Aspiring Full Stack Developer | Passionate about building real-world solutions through code 💻🚀</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=petchipandi05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
@@ -9,46 +9,59 @@
 
 ## 🚀 About Me
 
-🎯 I'm a Computer Science student from **National Engineering College** (2022-2026), currently working on projects using the **MERN stack** and aiming to become a skilled Full Stack Developer. I enjoy solving coding problems and learning new technologies to build scalable web applications.
+🎯 I'm a Computer Science student from **National Engineering College** (2022–2026), currently working on real-time MERN projects. I love coding, solving problems, and building user-centric applications that make life easier.
 
 ---
 
 ## 💡 Current Focus
 
-- 🏗️ **Construction Management System (MERN Stack)**  
-  A full-stack project that helps contractors manage construction site updates and progress.  
-  - Admin can upload weekly updates with completed work, images, materials used (e.g., sand, cement), and cost breakdown.
-  - Clients can log in and view real-time updates with transparency.
-  - Includes user authentication, role-based access (admin/client), and a payment management system with Aadhar and PAN card validation.
-  - Tech used: React.js, Node.js, Express.js, MongoDB, Cloudinary.
+### 🏗️ Construction Management System (MERN Stack)
+A full-stack platform where:
+- Admins can post weekly site updates, images, materials used, and costs
+- Clients can view live progress and pay using a verified portal
+- Features: Auth system, contractor–client access, payment tracking with Aadhar & PAN verification  
+**Tech Stack:** React.js | Node.js | Express.js | MongoDB | Cloudinary
 
 ---
 
-## 💻 Technology Stack
+## 🧰 Technologies & Tools
 
-- **Frontend:** HTML, CSS, JavaScript, React.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, MySQL  
-- **Languages:** Java, C, JavaScript  
-- **Other Tools:** Git, Postman  
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
 ## 🏆 Achievements
 
 - ✅ Solved **200+ problems on LeetCode**  
-- ✅ Solved **1800+ problems on Skillrack**, including **400+ daily challenges** and **320+ daily tests**  
+- ✅ Solved **1800+ problems on Skillrack** including **400+ daily challenges** & **320+ daily tests**  
 - ✅ **120+ problems on GeeksforGeeks**  
-- 🏅 Secured **5032nd rank** in **TCS CodeVita Season 11 (Global)**  
-- 🏅 Participated in **IEEE 18.0 Coding Contest** and secured **Global Rank 4037**
+- 🏅 **TCS CodeVita Season 11 (Global Rank: 5032)**  
+- 🏅 **IEEE 18.0 Coding Contest (Global Rank: 4037)**  
 
 ---
 
-## 📄 Certifications
+## 📜 Certifications
 
-- ✔️ Infosys - **Database Management System**  
-- ✔️ Sololearn - **C Programming**  
-- ✔️ OpenWeaver - **Python Programming**  
+| Platform     | Certification                             |
+|--------------|--------------------------------------------|
+| Infosys      | Database Management System                |
+| Infosys      | Angular Fundamentals                      |
+| Infosys      | CSS Basics                                |
+| Sololearn    | C Programming                             |
+| OpenWeaver   | Python Programming                        |
+| LinkedIn     | JavaScript Essentials                     |
 
 ---
 
