@@ -15,21 +15,22 @@
 
 ## 💡 Current Focus
 
-- 🌐 **Blog App (MERN Stack)**  
-  A full-stack application with user authentication, post creation/edit/delete (only by the creator), view all blogs, comment section, and filtering posts by name.  
-
-- 🧳 **Personal Portfolio Website**  
-  Developed using HTML, CSS, and JavaScript to showcase my certificates, skills, and education.
+- 🏗️ **Construction Management System (MERN Stack)**  
+  A full-stack project that helps contractors manage construction site updates and progress.  
+  - Admin can upload weekly updates with completed work, images, materials used (e.g., sand, cement), and cost breakdown.
+  - Clients can log in and view real-time updates with transparency.
+  - Includes user authentication, role-based access (admin/client), and a payment management system with Aadhar and PAN card validation.
+  - Tech used: React.js, Node.js, Express.js, MongoDB, Cloudinary.
 
 ---
 
-## 🛠 Skills
+## 💻 Technology Stack
 
-- **Languages:** Java, Python, JavaScript  
-- **Frontend:** HTML, CSS, React.js  
+- **Frontend:** HTML, CSS, JavaScript, React.js  
 - **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Others:** Git, Postman  
+- **Database:** MongoDB, MySQL  
+- **Languages:** Java, C, JavaScript  
+- **Other Tools:** Git, Postman  
 
 ---
 
@@ -39,6 +40,7 @@
 - ✅ Solved **1800+ problems on Skillrack**, including **400+ daily challenges** and **320+ daily tests**  
 - ✅ **120+ problems on GeeksforGeeks**  
 - 🏅 Secured **5032nd rank** in **TCS CodeVita Season 11 (Global)**  
+- 🏅 Participated in **IEEE 18.0 Coding Contest** and secured **Global Rank 4037**
 
 ---
 
