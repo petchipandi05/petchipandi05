@@ -68,7 +68,7 @@ A full-stack platform where:
 ## 📫 Contact Me
 
 - 📧 **Email:** [petchipandi05@gmail.com](mailto:petchipandi05@gmail.com)  
-- 🌐 **Portfolio:** [https://petchipandi05.github.io/](https://petchipandi05.github.io/)  
+- 🌐 **Portfolio:** [[https://petchipandi05.github.io/](https://petchipandi05.github.io/)  ](https://petchipandi05.github.io/my-portfolio/)
 - 📄 **Resume:** [View Resume](https://your-resume-link.com) <!-- Replace with actual resume URL -->
 - 📍 **Location:** Tenkasi, Tamil Nadu, India
 
