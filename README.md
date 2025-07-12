@@ -83,7 +83,7 @@ A contractor–client platform where:
 
 <p>
   <b>📧 Email:</b> <a href="mailto:petchipandi05@gmail.com">petchipandi05@gmail.com</a><br>
-  <b>🌐 Portfolio:</b> <a href="https://petchipandi05.github.io/](https://petchipandi05.github.io/my-portfolio/" target="_blank">My Profile</a><br>
+  <b>🌐 Portfolio:</b> <a href="https://petchipandi05.github.io/my-portfolio/" target="_blank">My Profile</a><br>
   <b>📄 Resume:</b> <a href="https://drive.google.com/file/d/17vgyc4Cyh40qkdzeqL4CLPtl31luQWDi/view" target="_blank">Click to View</a><br> <!-- Replace with real link -->
   <b>📍 Location:</b> Tenkasi, Tamil Nadu, India
 </p>
